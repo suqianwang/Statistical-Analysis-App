@@ -1,0 +1,51 @@
+inData.txt
+
+ 04/23/17
+ Susan
+
+Mean 	= 145.80 
+Median 	= 145.81 
+Mode 	= 138.38 
+Var 	= 010.48 
+Stdev 	= 003.20 
+Min 	= 138.38 
+Max 	= 154.48 
+Count 	= 000046 
+
+the type of standard deviation we use is:  population standard deviatioin
+
+
+Find Probability Given x or z:
+In your judgment, is the data normally distributed?
+your answer: Y
+
+given x = 12.360000, probability of x = 0.000000 
+
+
+Find Probability Given x or z:
+In your judgment, is the data normally distributed?
+your answer: Y
+
+given z = 2.340000, probability of z = 0.990358 
+
+Find x or z Given Probability:
+In your judgment, is the data normally distributed?
+your answer: Y
+
+given probability of x: 0.200000, x = 143.105768 
+
+Find x or z Given Probability:
+In your judgment, is the data normally distributed?
+your answer: Y
+
+given probability of z: 0.760000, z = 0.706303 
+
+
+Find Probability Given x or z:
+In your judgment, is the data normally distributed?
+your answer: N
+
+Find x or z Given Probability:
+In your judgment, is the data normally distributed?
+your answer: N
+
